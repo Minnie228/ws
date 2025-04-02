@@ -179,7 +179,7 @@ export default function Home() {
             <h2 className="text-xl font-bold mb-2">幸福计数器</h2>
             <p className="mb-2">我们已经记录了 <span className="text-pink-500 font-bold">{happinessCount}</span> 次幸福 ✨</p>
             <button onClick={addHappiness} className="bg-pink-300 hover:bg-pink-400 px-4 py-2 rounded-full shadow">
-              +1 今天也好幸福
+              +1 
             </button>
           </div>
 
